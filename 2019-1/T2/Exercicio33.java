@@ -5,8 +5,6 @@
  *			- Entre RS30,00 e RS100,00 (inclusive) -> 10%
  *			- Acima de RS100,00 -> 15%
  *
- * @author Vinicius de Borba
- * @versio 01 abr. 2019
  */
 
 import java.util.Scanner;

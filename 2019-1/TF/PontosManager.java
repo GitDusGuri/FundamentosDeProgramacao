@@ -1,9 +1,8 @@
 /** 
  * Classe para controlar e escrever o placar
  * 
- * @author Vinicius de Borba
- * @version 16 jun. 2019
 */
+
 import java.io.FileWriter;
 import java.io.File;
 import java.util.Scanner;

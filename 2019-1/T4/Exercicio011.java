@@ -7,8 +7,6 @@
  * Em caso de empate mostrar apenas o primeiro mes com a 
  * respectiva temperatura.
  * 
- * @author Vinicius de Borba
- * @version 16 mai. 2019
  */
 
 

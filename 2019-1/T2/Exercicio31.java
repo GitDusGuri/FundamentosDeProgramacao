@@ -5,8 +5,6 @@
  * 		1: Poupanca -> 3%
  *		2: Fundos de renda fixa -> 4%
  *
- * @author Vinicius de Borba
- * @versio 01 abr. 2019
  */
 
 import java.util.Scanner;

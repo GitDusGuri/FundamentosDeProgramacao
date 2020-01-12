@@ -6,8 +6,6 @@
  * Podem nao haver valores positivos ou negativos no vetor original, 
  * neste caso deve-se imprimir uma linha vazia na saida.
  *
- * @author Vinicius de Borba
- * @version 11 mai. 2019
  */
 
 import java.util.Scanner;

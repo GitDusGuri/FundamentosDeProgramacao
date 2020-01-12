@@ -2,8 +2,6 @@
  * Faca um programa que leia dois vetores de dez valores inteiros cada um, 
  * e mostre o vetor resultante da intercalacao deles.
  *
- * @author Vinicius de Borba
- * @version 11 mai. 2019
  */
 
 import java.util.Scanner;

@@ -20,8 +20,7 @@
  *  - o valor do imposto cobrado sobre o preco da carga e dependendo da origem
  *  - o valor total transportado pelo caminhao, preco da carga mais imposto
  *
- * @author Vinicius de Borba
- * @versio 01 abr. 2019
+ 
  */
 
 import java.util.Scanner;

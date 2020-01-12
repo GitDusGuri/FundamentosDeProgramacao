@@ -7,8 +7,6 @@
  *   4) a idade e o sexo da pessoa que possui o menor salario (no caso de mais de uma pessoa com o menor salario, considerar os dados da primeira pessoa).
  * Finalize a entrada de dados ao ser digitada uma idade negativa.
  * 
- * @author Vinicius de Borba
- * @version 15 abr. 2019
  */
 
 import java.util.Scanner;

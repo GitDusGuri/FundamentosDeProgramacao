@@ -1,8 +1,6 @@
 /**
  * Faca um programa que receba dez numeros, calcule e mostre a soma dos numeros pares e a soma dos numeros primos.
  *
- * @author Vinicius de Borba
- * @version 15 abr. 2019
  */
 
 import java.util.Scanner;

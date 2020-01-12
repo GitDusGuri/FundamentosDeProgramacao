@@ -1,8 +1,6 @@
 /**
  * Faca um programa que receba tres numeros e mostre-os em ordem crescente.
  *
- * @author Vinicius de Borba
- * @version 29 mar. 2019
  */
 
 import java.util.Scanner;
@@ -32,7 +30,7 @@ public class Exercicio08
             }
 			
 			else{
-				Syste.out.printf("%.4f %.4f %.4f");
+				System.out.printf("%.4f %.4f %.4f");
 			}
         }
         

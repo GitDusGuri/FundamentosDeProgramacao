@@ -4,8 +4,6 @@
  * 	2)	a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro;
  * 	3)	a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90 m
  *
- * @author Vinicius de Borba
- * @version 15 abr. 2019
  */
  
 import java.util.Scanner;

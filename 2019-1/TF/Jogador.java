@@ -1,8 +1,6 @@
 /**
  * Classe para definição de propriedades do jogador.
  * 
- * @author Vinicius de Borba
- * @version 15 jun. 2019
 */
 
 public class Jogador {

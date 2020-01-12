@@ -1,8 +1,6 @@
 /**
  * Classe para manipulação do tabuleiro de Speculate.
  * 
- * @author Vinicius de Borba
- * @version 16 jun. 2019 
 */
 
 public class Tabuleiro {

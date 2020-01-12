@@ -8,9 +8,7 @@
  * Se a opcao digitada foi invalida, mostre a mensagem de erro "Escolha errada"
  * e termine a execucao do programa. Lembre-se de que, na operacao 4, o segundo numero
  * deve ser diferente de zero.
- *      
- * @author Vinicius de Borba
- * @version 31 mar. 2019
+ * 
  */
 
 import java.util.Scanner;

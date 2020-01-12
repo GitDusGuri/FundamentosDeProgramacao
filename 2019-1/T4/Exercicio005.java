@@ -10,8 +10,6 @@
  *
  * Caso o vetor resultante seja vazio, mostre apenas uma linha em branco.
  *
- * @author Vinicius de Borba
- * @version 11 mai. 2019
  */
  
 import java.util.Scanner;

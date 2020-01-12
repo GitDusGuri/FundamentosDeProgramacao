@@ -8,8 +8,6 @@
  * 1) o numero de matrıcula e o numero de pontos de cada aluno; e
  * 2) a porcentagem de aprovacao, sabendo-se que a nota mínima e 6 (pontos).
  * 
- * @author Vinicius de Borba
- * @version 15 mai. 2019
  */
 
 import java.util.Scanner;

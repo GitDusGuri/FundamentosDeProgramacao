@@ -4,8 +4,6 @@
  * e mostrar a matriz resultante da multiplicacao do numero digitado 
  * por cada elemento da matriz.
  * 
- * @author Vinicius de Borba
- * @version 16 mai. 2019
  */
 
 import java.util.Scanner;

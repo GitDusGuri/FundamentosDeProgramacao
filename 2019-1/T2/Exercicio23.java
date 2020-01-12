@@ -18,8 +18,6 @@
  *				Ate RS750,00 (inclusive) = Mal remunerado
  *				Acima de RS750,00 = Bem remunerado
  *
- * @author Vinicius de Borba
- * @versio 01 abr. 2019
  */
  
  import java.util.Scanner;

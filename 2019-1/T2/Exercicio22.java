@@ -6,8 +6,6 @@
  *		4: Gerente, 10%
  *		5: Diretor, sem aumento
  *
- * @author Vinicius de Borba
- * @version 01 abr. 2019
  */
  
  import java.util.Scanner;

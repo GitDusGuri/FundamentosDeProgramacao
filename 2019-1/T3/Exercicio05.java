@@ -3,8 +3,6 @@
  *  Calcule e mostre o valor da serie a seguir:
  *          S = -X2/1! + X3/2! - X4/3! + X5/4! - X6/3! + X7/2! - X8/1! + X9/2! - X10/3! + X11/4!...
  *          
- * @author Vinicius de Borba
- * @version 15 abr. 2019
  */
 
 import java.util.Scanner;

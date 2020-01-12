@@ -4,8 +4,6 @@
  * E cada um dos demais termos corresponde sempre a soma dos dois anteriores. 
  * Sequencia de Fibonacci:0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
  *
- * @author Vinicius de Borba
- * @version 15 abr. 2019
  */
 
 import java.util.Scanner;

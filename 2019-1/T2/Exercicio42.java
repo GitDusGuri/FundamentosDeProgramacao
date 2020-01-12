@@ -3,8 +3,7 @@
  *  - para homens: (72.7 * h) - 58
  *  - para mulheres (62.1 * h) - 44.7
  *
- * @author Vinicius de Borba
- * @versio 01 abr. 2019
+ 
  */
 
 import java.util.Scanner;

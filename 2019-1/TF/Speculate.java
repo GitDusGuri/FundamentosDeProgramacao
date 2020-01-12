@@ -1,8 +1,6 @@
 /** 
  * Classe de controle do jogo Speculate.
  * 
- * @author Vinicius de Borba
- * @version 15 jun. 2019
 */
 
 import java.util.Scanner;

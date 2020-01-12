@@ -4,8 +4,6 @@
  * A seguir, o programa devera multiplicar cada elemento da matriz 
  * pela soma da linha correspondente e mostrar a matriz resultante.
  * 
- * @author Vinicius de Borba
- * @version 16 mai. 2019
  */
 
 import java.util.Scanner;

@@ -20,8 +20,6 @@
  * 
  * Cada informacao sera fornecida em uma linha separada.
  * 
- * @author Vinicius de Borba
- * @version 16 mai. 2019
  */
 
 

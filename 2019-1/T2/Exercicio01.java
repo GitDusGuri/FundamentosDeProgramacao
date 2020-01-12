@@ -14,8 +14,6 @@
  *      5 a 6: D
  *      0 a 5: E
  *      
- * @author Vincius de Borba
- * @version 29 mar. 2019
  */
 
 import java.util.Scanner;

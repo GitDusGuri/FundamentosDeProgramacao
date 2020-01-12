@@ -16,8 +16,6 @@
  * e as colunas da matriz correspondem aos precos de um produto. 
  * A matriz eh fornecida na entrada linha a linha.
  * 
- * @author Vinicius de Borba
- * @version 16 mai. 2019
  */
 
 import java.util.Scanner;

@@ -1,8 +1,6 @@
 /**
  * Classe de funcionamento do dado no jogo Speculate.
  * 
- * @author Vinicius de Borba
- * @version 14 jun. 2019
 */
 
 import java.util.Random;
